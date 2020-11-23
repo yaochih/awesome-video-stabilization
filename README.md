@@ -1,4 +1,4 @@
-# Video Stablization
+# Video Stabilization
 This is a personal note about the resources of video stabilization methods. If you find anything wrong or anything new, feel free to contact me.
 
 | Year | Pub | Paper | Repo |
@@ -18,6 +18,7 @@ This is a personal note about the resources of video stabilization methods. If y
 |2018|ECCV|[Selfie Video Stabilization](https://cseweb.ucsd.edu/~ravir/selfievideo.pdf)|[project page](https://cseweb.ucsd.edu/~ravir/selfievideo.pdf) <br>[dataset](https://drive.google.com/file/d/1W30MsjplUrGtnT0PcUS5jWikYxDVMvXi/view?usp=sharing)|
 |2019|TIP|[Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning](https://ieeexplore.ieee.org/document/8554287)|[code](https://github.com/cxjyxxme/deep-online-video-stabilization-deploy)(official)<br>[dataset](http://cg.cs.tsinghua.edu.cn/download/DeepStab.zip)|
 |2019|CVPR|[Robust Video Stabilization by Optimization in CNN Weight Space](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr.pdf)||
+|2019|TVCG|[Effective Video Stabilization via Joint Trajectory Smoothing and Frame Warping](https://ieeexplore.ieee.org/document/8737754)|[code](https://github.com/705062791/TVCG-Video-Stabilization-via-joint-Trajectory-Smoothing-and-frame-warping)(official)|
 |2019|arXiv|[DeepMeshFlow: Content Adaptive Mesh Deformation for Robust Image Registration](https://arxiv.org/pdf/1912.05131)||
 |2020|TIP|[PWStableNet: Learning Pixel-wise Warping Maps for Video Stabilization](https://ieeexplore.ieee.org/document/8951447)|[project page](http://home.ustc.edu.cn/~zmd1992/PWStableNet.html)<br>[code](https://github.com/mindazhao/pix-pix-warping-video-stabilization)(official)|
 |2020|TOG|[Deep Iterative Frame Interpolation for Full-Frame Video Stabilization](https://arxiv.org/pdf/1909.02641)|[code](https://github.com/jinsc37/DIFRINT)(official)|
