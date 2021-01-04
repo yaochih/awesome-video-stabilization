@@ -4,7 +4,7 @@ This is a personal note about the resources of video stabilization methods. If y
 | Year | Pub | Paper | Repo |
 | -------- | -------- | -------- | -------- | 
 |2009|TOG|[Content-Preserving Warps for 3D Video Stabilization](http://gvv.mpi-inf.mpg.de/teaching/gvv_seminar_2012/papers/Content-Preserving%20Warps%20for%203D%20Video%20Stabilization.pdf)| [project page](http://web.cecs.pdx.edu/~fliu/project/3dstab.htm)|
-|2011|CVPR|[Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths](https://research.google.com/pubs/archive/37041.pdf)|[project page](https://www.cc.gatech.edu/cpl/projects/videostabilization/) <br> [code](https://github.com/ishit/L1Stabilizer)(unofficial)|
+|2011|CVPR|[Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths](https://research.google.com/pubs/archive/37041.pdf)|[project page](https://www.cc.gatech.edu/cpl/projects/videostabilization/) <br> [code, MATLAB](https://github.com/ishit/L1Stabilizer)(unofficial) <br> [code, Python](https://github.com/ishank-juneja/Video-Stabilization)|
 |2011|TOG|[Subspace Video Stabilization](http://web.cecs.pdx.edu/~fliu/papers/tog2010.pdf)|[project page](http://web.cecs.pdx.edu/~fliu/project/subspace_stabilization/) <br> [code](https://github.com/higerra/SubspaceStab)(unofficial)|
 |2012|TOG|[Video Stabilization using Epipolar Geometry](https://www.cse.huji.ac.il/~raananf/projects/stab/paper.pdf)|[project page](https://www.cs.huji.ac.il/~raananf/projects/stab/)|
 |2012|CVPR|[Video Stabilization with a depth camera](https://www.cs.sfu.ca/~pingtan/Papers/cvpr12_stabilization.pdf)|[project page](http://www.liushuaicheng.org/CVPR2012/index.html)|
