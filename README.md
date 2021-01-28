@@ -24,4 +24,6 @@ This is a personal note about the resources of video stabilization methods. If y
 |2020|TOG|[Deep Iterative Frame Interpolation for Full-Frame Video Stabilization](https://arxiv.org/pdf/1909.02641)|[code](https://github.com/jinsc37/DIFRINT)(official)|
 |2020|CVPR|[Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)||
 |2020|arXiv|[Real-Time Selfie Video Stabilization](https://arxiv.org/pdf/2009.02007)||
-
+|2020|arXiv|[Cinematic-L1 Video Stabilization with a Log-Homography Model](https://arxiv.org/pdf/2011.08144.pdf)||
+|2020|arXiv|[Learning Deep Video Stabilization without Optical Flow](https://arxiv.org/pdf/2011.09697)||
+|2020|arXiv|[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574)||
