@@ -26,4 +26,4 @@ This is a personal note about the resources of video stabilization methods. If y
 |2020|arXiv|[Real-Time Selfie Video Stabilization](https://arxiv.org/pdf/2009.02007)||
 |2020|arXiv|[Cinematic-L1 Video Stabilization with a Log-Homography Model](https://arxiv.org/pdf/2011.08144.pdf)||
 |2020|arXiv|[Learning Deep Video Stabilization without Optical Flow](https://arxiv.org/pdf/2011.09697)||
-|2020|arXiv|[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574)||
+|2020|arXiv|[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574)|[code](https://github.com/Annbless/DUTCode)(official)|
