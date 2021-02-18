@@ -27,3 +27,6 @@ This is a personal note about the resources of video stabilization methods. If y
 |2020|arXiv|[Cinematic-L1 Video Stabilization with a Log-Homography Model](https://arxiv.org/pdf/2011.08144.pdf)||
 |2020|arXiv|[Learning Deep Video Stabilization without Optical Flow](https://arxiv.org/pdf/2011.09697)||
 |2020|arXiv|[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574)|[code](https://github.com/Annbless/DUTCode)(official)|
+|2021|arXiv|[Deep Online Fused Video Stabilization](https://arxiv.org/pdf/2102.01279)|[project page](https://zhmeishi.github.io/dvs/)|
+|2021|arXiv|[Neural Re-rendering for Full-frame Video Stabilization](https://arxiv.org/pdf/2102.06205)|[project page](https://alex04072000.github.io/NeRViS/)|
+
