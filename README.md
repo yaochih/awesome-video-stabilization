@@ -1,5 +1,5 @@
 # Video Stabilization
-This is a personal note about the resources of video stabilization methods. If you find anything wrong or anything new, feel free to contact me.
+This is a curated list of the resources of video stabilization methods. If you find anything wrong or anything new, feel free to contact me.
 
 | Year | Pub | Paper | Repo |
 | -------- | -------- | -------- | -------- | 
