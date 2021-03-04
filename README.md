@@ -17,12 +17,12 @@ This is a curated list of the resources of video stabilization methods. If you f
 |2018|CGF|[Deep Video Stabilization Using Adversarial Networks](https://cg.cs.tsinghua.edu.cn/papers/CGF-2018-video-stab.pdf)||
 |2018|ECCV|[Selfie Video Stabilization](https://cseweb.ucsd.edu/~ravir/selfievideo.pdf)|[project page](https://cseweb.ucsd.edu/~ravir/selfievideo.pdf) <br>[dataset](https://drive.google.com/file/d/1W30MsjplUrGtnT0PcUS5jWikYxDVMvXi/view?usp=sharing)|
 |2019|TIP|[Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning](https://ieeexplore.ieee.org/document/8554287)|[code](https://github.com/cxjyxxme/deep-online-video-stabilization-deploy)(official)<br>[dataset](http://cg.cs.tsinghua.edu.cn/download/DeepStab.zip)|
-|2019|CVPR|[Robust Video Stabilization by Optimization in CNN Weight Space](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr.pdf)||
+|2019|CVPR|[Robust Video Stabilization by Optimization in CNN Weight Space](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr.pdf)|[project page and official code](http://jiyang.fun/projects.html)|
 |2019|TVCG|[Effective Video Stabilization via Joint Trajectory Smoothing and Frame Warping](https://ieeexplore.ieee.org/document/8737754)|[code](https://github.com/705062791/TVCG-Video-Stabilization-via-joint-Trajectory-Smoothing-and-frame-warping)(official)|
 |2019|arXiv|[DeepMeshFlow: Content Adaptive Mesh Deformation for Robust Image Registration](https://arxiv.org/pdf/1912.05131)||
 |2020|TIP|[PWStableNet: Learning Pixel-wise Warping Maps for Video Stabilization](https://ieeexplore.ieee.org/document/8951447)|[project page](http://home.ustc.edu.cn/~zmd1992/PWStableNet.html)<br>[code](https://github.com/mindazhao/pix-pix-warping-video-stabilization)(official)|
 |2020|TOG|[Deep Iterative Frame Interpolation for Full-Frame Video Stabilization](https://arxiv.org/pdf/1909.02641)|[code](https://github.com/jinsc37/DIFRINT)(official)|
-|2020|CVPR|[Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)||
+|2020|CVPR|[Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)|[project page and official code](http://jiyang.fun/projects.html)|
 |2020|arXiv|[Real-Time Selfie Video Stabilization](https://arxiv.org/pdf/2009.02007)||
 |2020|arXiv|[Cinematic-L1 Video Stabilization with a Log-Homography Model](https://arxiv.org/pdf/2011.08144.pdf)||
 |2020|arXiv|[Learning Deep Video Stabilization without Optical Flow](https://arxiv.org/pdf/2011.09697)||
