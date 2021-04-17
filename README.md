@@ -29,4 +29,5 @@ This is a curated list of the resources of video stabilization methods. If you f
 |2020|arXiv|[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574)|[code](https://github.com/Annbless/DUTCode)(official)|
 |2021|arXiv|[Deep Online Fused Video Stabilization](https://arxiv.org/pdf/2102.01279)|[project page](https://zhmeishi.github.io/dvs/)|
 |2021|arXiv|[Neural Re-rendering for Full-frame Video Stabilization](https://arxiv.org/pdf/2102.06205)|[project page](https://alex04072000.github.io/NeRViS/)<br>[code](https://github.com/alex04072000/NeRViS)(official)|
+|2021|CVPR|3D Video Stabilization with Depth Estimation by CNN-based Optimization||
 
