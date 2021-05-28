@@ -23,11 +23,11 @@ This is a curated list of the resources of video stabilization methods. If you f
 |2020|TIP|[PWStableNet: Learning Pixel-wise Warping Maps for Video Stabilization](https://ieeexplore.ieee.org/document/8951447)|[project page](http://home.ustc.edu.cn/~zmd1992/PWStableNet.html)<br>[code](https://github.com/mindazhao/pix-pix-warping-video-stabilization)(official)|
 |2020|TOG|[Deep Iterative Frame Interpolation for Full-Frame Video Stabilization](https://arxiv.org/pdf/1909.02641)|[code](https://github.com/jinsc37/DIFRINT)(official)|
 |2020|CVPR|[Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)|[project page<br>official code](http://jiyang.fun/projects.html)|
-|2020|CVPR|[Real-Time Selfie Video Stabilization](https://arxiv.org/pdf/2009.02007)||
 |2020|arXiv|[Cinematic-L1 Video Stabilization with a Log-Homography Model](https://arxiv.org/pdf/2011.08144.pdf)||
 |2020|arXiv|[Learning Deep Video Stabilization without Optical Flow](https://arxiv.org/pdf/2011.09697)||
 |2020|arXiv|[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574)|[code](https://github.com/Annbless/DUTCode)(official)|
 |2021|arXiv|[Deep Online Fused Video Stabilization](https://arxiv.org/pdf/2102.01279)|[project page](https://zhmeishi.github.io/dvs/)|
 |2021|arXiv|[Hybrid Neural Fusion for Full-frame Video Stabilization](https://arxiv.org/pdf/2102.06205)|[project page](https://alex04072000.github.io/NeRViS/)<br>[code](https://github.com/alex04072000/NeRViS)(official)|
+|2021|CVPR|[Real-Time Selfie Video Stabilization](https://arxiv.org/pdf/2009.02007)||
 |2021|CVPR|[3D Video Stabilization with Depth Estimation by CNN-based Optimization](https://drive.google.com/file/d/1vTalKtMz2VEowUg0Cb7nW3pzQhUWDCLA/view?usp=sharing)|[project page](https://yaochih.github.io/deep3d-stabilizer.io/)|
 
