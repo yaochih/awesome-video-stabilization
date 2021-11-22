@@ -29,6 +29,8 @@ This is a curated list of the resources of video stabilization methods. If you f
 |2021|arXiv|[Deep Online Fused Video Stabilization](https://arxiv.org/pdf/2102.01279)|[project page](https://zhmeishi.github.io/dvs/)|
 |2021|CVPR|[Real-Time Selfie Video Stabilization](https://arxiv.org/pdf/2009.02007)|[code](https://github.com/jiy173/selfievideostabilization)(official)|
 |2021|CVPR|[3D Video Stabilization with Depth Estimation by CNN-based Optimization](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_3D_Video_Stabilization_With_Depth_Estimation_by_CNN-Based_Optimization_CVPR_2021_paper.html)|[project page](https://yaochih.github.io/deep3d-stabilizer.io/)|
+|2021|ICIP|[PixStabNet: Fast Multi-Scale Deep Online Video Stabilization with Pixel-Based Warping](https://ieeexplore.ieee.org/document/9506801)||
 |2021|ICCV|[Hybrid Neural Fusion for Full-frame Video Stabilization](https://arxiv.org/pdf/2102.06205)|[project page](https://alex04072000.github.io/NeRViS/)<br>[code](https://github.com/alex04072000/NeRViS)(official)|
 |2021|ICCV|[Out-of-boundary View Synthesis Towards Full-Frame Video Stabilization](https://arxiv.org/pdf/2108.09041.pdf)||
+|2021|BMVC|[Self-Supervised Real-time Video Stabilization](https://arxiv.org/pdf/2111.05980.pdf)||
 
